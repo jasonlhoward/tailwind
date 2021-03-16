@@ -1,0 +1,7 @@
+p {
+    color: blue;
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
